@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/StackTest.dir/stack_test.cc.o -o StackTest  /usr/local/Cellar/googletest/1.15.0/lib/libgtest.a /usr/local/Cellar/googletest/1.15.0/lib/libgtest_main.a -lpthread ../src/libStackLib.a

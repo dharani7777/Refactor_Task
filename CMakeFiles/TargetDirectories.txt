@@ -1,0 +1,8 @@
+/Users/wandolo/desktop/Refactor/build/CMakeFiles/edit_cache.dir
+/Users/wandolo/desktop/Refactor/build/CMakeFiles/rebuild_cache.dir
+/Users/wandolo/desktop/Refactor/build/src/CMakeFiles/StackLib.dir
+/Users/wandolo/desktop/Refactor/build/src/CMakeFiles/edit_cache.dir
+/Users/wandolo/desktop/Refactor/build/src/CMakeFiles/rebuild_cache.dir
+/Users/wandolo/desktop/Refactor/build/tests/CMakeFiles/StackTest.dir
+/Users/wandolo/desktop/Refactor/build/tests/CMakeFiles/edit_cache.dir
+/Users/wandolo/desktop/Refactor/build/tests/CMakeFiles/rebuild_cache.dir
